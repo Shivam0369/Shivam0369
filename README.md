@@ -1,6 +1,6 @@
 # Hey, I'm Shivam 👋
 
-I'm a software developer at Laxmi Industries, India, building applications and analytics tools that solve real manufacturing problems.
+I'm a software developer from India, building applications and analytics tools that solve real manufacturing problems.
 
 I work mainly with Python, JavaScript, Node.js, and data analytics. I've built internal tools for production monitoring, quality analytics, supplier performance, and employee evaluation.
 
